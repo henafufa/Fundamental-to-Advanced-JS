@@ -1,1 +1,38 @@
 #Fundamental-to-Advanced-JS
+This project contain three js files and in each files core javascript concepts explained in code. It also well commented and easy to follow the code content and flow.
+The concept covered are:
+- Variables
+- Objects
+- Arrays
+- Arithmetic Operators
+- Functions
+- Loops
+- Break and Continue Keywords
+- If Statements
+- Switch Statement
+- Logical and Comparison Operators
+- Type Coercion
+- Map | Filter | Reduce functions
+- Name Exports and Imports
+- Default Exports and Imports
+- Variable Scope and Let Keyword
+- Const Keyword
+- Template Literals
+- Spread Operators on Arrays and Objects
+- Arrow Functions
+- Callbacks
+- Lexical and the this keyword
+- Enhanced Object Properties
+- Array and Object Destcructuring
+- Function Default Parameters
+- Classes
+- Inheritance
+- Static methods
+- Pomises 
+- Promise.all
+- Promises and Fetch API
+- Async Await
+- Handling Errors
+- Generators and Coroutines
+- Generators Promises and Coroutines
+- And so on.
